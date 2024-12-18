@@ -1,2 +1,14 @@
 # Personal-Finance-Management-System
-PPersonal Finance Management System: Developed a Python-based application to track income, expenses, and budgets. Integrated user authentication, data visualization using Matplotlib, and real-time analytics for financial insights. Features include expense management, budget setting, and reporting.
+Personal Finance Management System
+Description: Developed a Python-based application for managing personal finances, including income, expenses, budgets, and data visualization.
+Key Features:
+User authentication for secure access (Sign Up and Log In functionality).
+Income and expense tracking with categorized data entries.
+Budget management with alerts for overspending.
+Data analytics reports for income vs. expenses and net savings.
+Visualization of financial data using bar charts.
+Tools & Technologies: Python, Matplotlib, Data Structures (Lists, Dictionaries), User Input Handling, and Modular Programming.
+Key Achievements:
+Designed modular, reusable, and scalable code for improved maintenance.
+Incorporated data-driven decision-making by generating detailed reports.
+Gained hands-on experience with end-to-end project development.
