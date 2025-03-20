@@ -1,4 +1,4 @@
-# main.py
+!pip install bcrypt
 import sqlite3
 import bcrypt
 import matplotlib.pyplot as plt
